@@ -1,0 +1,24 @@
+h1{
+    font-style: italic;
+    color: blueviolet;
+}
+h2{
+    font-style: italic;
+    color:brown;
+}
+p{
+    font-weight: bold;
+    color: chartreuse;
+    font-size: 15px;
+}
+
+.preto
+{
+    color: black;
+    font-size: 40px;
+}
+
+.vermelho
+{
+    color: red;
+}

@@ -1,0 +1,31 @@
+h1{
+    color: red;
+    font-size: 35px;
+    font-style: italic;
+    transition: linear 1s;
+}
+
+h1:hover{
+    color: black;
+    text-decoration: underline;
+    font-size: 45px;
+    transition: linear 1s;
+}
+
+#teste{
+    color: blue;
+}
+
+.classe1{
+    color: green;
+    font-size: 22px;
+}
+
+.bloco p{
+    color:blueviolet;
+    font-size: 28px;
+}
+
+.bold{
+    font-weight: bolder;
+}
